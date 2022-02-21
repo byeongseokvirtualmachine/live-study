@@ -26,14 +26,6 @@
 * 날짜와 시간
 * Stream API
 
-### 일정
-
-TBD
-
-### 스터디 참여 현황
-
-TBD
-
 ### 주차별 과제
 
 1. https://github.com/whiteship/live-study/issues/1
