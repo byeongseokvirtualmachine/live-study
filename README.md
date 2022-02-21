@@ -33,3 +33,21 @@ TBD
 ### 스터디 참여 현황
 
 TBD
+
+### 주차별 과제
+
+1. https://github.com/whiteship/live-study/issues/1
+2. https://github.com/whiteship/live-study/issues/2 
+3. https://github.com/whiteship/live-study/issues/3
+4. https://github.com/whiteship/live-study/issues/4
+5. https://github.com/whiteship/live-study/issues/5
+6. https://github.com/whiteship/live-study/issues/6
+7. https://github.com/whiteship/live-study/issues/7
+8. https://github.com/whiteship/live-study/issues/8
+9. https://github.com/whiteship/live-study/issues/9
+10. https://github.com/whiteship/live-study/issues/10
+11. https://github.com/whiteship/live-study/issues/11
+12. https://github.com/whiteship/live-study/issues/12
+13. https://github.com/whiteship/live-study/issues/13
+14. https://github.com/whiteship/live-study/issues/14
+15. https://github.com/whiteship/live-study/issues/15
